@@ -1,4 +1,5 @@
-Start Git with Liquid Light
+#Start Git with Command
+
 This repo is here for people to clone, play and commit.
 
 To learn more about how to get started with git, check out our Git for Beginners blog post
